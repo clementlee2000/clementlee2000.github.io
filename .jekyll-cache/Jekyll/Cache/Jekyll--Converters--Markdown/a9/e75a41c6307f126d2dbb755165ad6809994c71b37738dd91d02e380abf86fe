@@ -1,0 +1,111 @@
+I"l(<p>Christening this website with my <a href="https://sites.google.com/site/undefinition/bookshelf-speakers/diy-overnightsensations">Overnight Sensations</a> build. These bookshelf speakers are famous for being a great first DIY build. A long time colleague and friend of mine is a real audiophile (<a href="https://gyree.co/scae-01-dicek/">see these speakers he designed and built</a>) and I finally caught the bug and decided to build a pair of my own. I purchased a kit online and worked on it over the course of a month. My ears are happy, I’m happy, and I hope you’re happy.</p>
+
+<h3 id="cabinet">Cabinet</h3>
+
+<p>Normally when I get a kit I take pictures of all the components first, but this time around I got a bit excited and forgot to do that… The kit came with machined 1/2” birch plywood for the cabinets.</p>
+
+<p>It’s good practice to plan your glue-up before you actually apply the first drop of glue – you can avoid a lot of mistakes that way. Lay out your pieces, grab all your tools, and figure out where clamps should go. I went through the panels and marked all the insides with x’s so that the better looking sides will face outwards. Here I’m building off a narrow workbench and a plywood offcut, and I’ve balanced a pair of pipeclamps to hold one side while I prepare to glue in the top, bottom, and other side. The rabbets cut into the side panels made aligning things so easy I ended up not using my right angle clamps.</p>
+
+<p><img src="/assets/images/os/0.jpg" class="img-fluid" /></p>
+
+<div class="clearfix">
+    <p><img src="/assets/images/os/1.jpg" class="img-fluid float-md-left" width="250" style="padding-right:25px; padding-bottom:25px" /></p>
+    <p>Always brush out your glue along the whole joint. Apply enough clamping pressure for some glue to squeeze out - don't clamp it so hard that you starve the joint though!</p>
+    &nbsp;
+    <p>I probably should have also glued in the back at this stage, which would have helped keep everything nice and square. Oh well. I clamped up the first box and set it aside while I built the second box off camera.</p>
+</div>
+
+<p><img src="/assets/images/os/2.jpg" class="img-fluid" /></p>
+
+<div class="clearfix">
+<p><img src="/assets/images/os/3.jpg" class="img-fluid float-md-left" width="250" style="padding-right:10px" /></p>
+<p><img src="/assets/images/os/4.jpg" class="img-fluid float-md-left" width="250" style="padding-right:10px" /></p>
+<p>Every good glue joint should have squeeze out. For painted projects I typically wipe off the excess with a damp rag, but the residual diluted glue can film and cause uneven finishing. Since I plan to stain these speakers, I waited for the glue to dry partially and used a chisel as a scraper to clean off the glue.</p>
+</div>
+
+<p>While the glue up was drying, I painted up the inside faces of the cabinets. My audiophile friend swears that the paint layer will give a better acoustic surface than the raw plywood, and I had some spare Black Forest Green leftover - which isn’t quite dark enough - from my aquarium cabinet, so why not. I made sure not to paint the edges since that is where the glue will make contact, but I forgot to mask off the other contact areas along the… edges of the faces, so I spent some time sanding the area after the paint had dried.
+<img src="/assets/images/os/5.jpg" class="img-fluid" /></p>
+
+<p><img src="/assets/images/os/6.jpg" class="img-fluid" /></p>
+
+<p><img src="/assets/images/os/7.jpg" class="img-fluid" /></p>
+
+<p>Then came the final glue up for the cabinet. The back piece slotted in just fine, but the front baffle was slightly skewed, so I angled one of the clamps to pull things into alignment. We can move on to the electronics while the glue dries!
+<img src="/assets/images/os/8.jpg" class="img-fluid" /></p>
+
+<h3 id="crossover">Crossover</h3>
+
+<p>The kit comes with almost everything you need to have a functioning pair of speakers: all the circuit elements are there, but you need to have solder and a soldering iron. I highly recmomend a glue gun and printed circuit boards (PCB), it’ll save you from thinking about how to lay out the components and how to avoid cross the wrong wires. I bought a pair of PCBs off of eBay and it came with clear instructions and was surprisingly well packed.</p>
+
+<p><img src="/assets/images/os/9.jpg" class="img-fluid" /></p>
+
+<div class="clearfix">
+<p><img src="/assets/images/os/10.jpg" class="img-fluid float-md-left" width="250" style="padding-right:10px; padding-bottom:25px" /></p>
+<p>I laid out my circuit elements to make sure everything was there and even tested the resistors and capacitors with a multimeter. The PCB and instructions made this part of the build so simple. I dry fitted everything, then took out the inductors (copper coils) so that the upside down PCBs would be stable while I worked on the smaller elements.  </p>
+ &nbsp;
+<p>I secured the components with hot glue underneath and alongside the parts where space allowed, flipped the board over, trimmed all the extra wire, and did the first pass of soldering. Always solder in a ventilated environment! I'm working in an airbrush spraybooth, which vents outside.</p>
+</div>
+
+<p><img src="/assets/images/os/11.jpg" class="img-fluid" /></p>
+
+<p><img src="/assets/images/os/12.jpg" class="img-fluid" /></p>
+
+<p><img src="/assets/images/os/13.jpg" class="img-fluid" /></p>
+
+<p>Finally I glued in the inductors and soldered them in; they are so bulky that they need to be reinforced with some cable ties. The PCBs already have through holes for this. 
+<img src="/assets/images/os/14.jpg" class="img-fluid" /></p>
+
+<p>It was pretty late at night by this point but I couldn’t resist the test-fire. I unpacked the tweeters and woofers, stripped some speaker cables, and hooked up all the terminals. Everything was working!
+<img src="/assets/images/os/15.jpg" class="img-fluid" /></p>
+
+<h3 id="cabinet-finishing">Cabinet finishing</h3>
+
+<p>Once the glue is dried, the speakers are technically ready for final assembly. I decided to finish them with some additional details. The sides of the front baffle were already rounded over, but I wanted to change things up a bit.
+<img src="/assets/images/os/16.jpg" class="img-fluid" /></p>
+
+<div class="clearfix">
+<p><img src="/assets/images/os/17.jpg" class="img-fluid- float-md-left" width="250" style="padding-right:10px; padding-bottom:25px" /></p>
+<p>When building a box, it's usually easier to cut the lid oversized and then trim the excess after glue-up so that the edges line up perfectly. The front piece here is cut practically perfectly, but nonetheless I chamferied the edges to add more details. I made 38 degree cuts on a table saw. </p>
+&nbsp;
+<p>I didn't like the look of the vertex where the edges meet, so I took a rasp and some sand paper to create a triangular plane. I wrapped the sandpaper around a small piece of plywood so that I could apply even pressure while keeping the angle consistent.</p>
+</div>
+
+<p><img src="/assets/images/os/18.jpg" class="img-fluid" /></p>
+
+<p>I used a random orbital sander on all surfaces with 120 and 180 grit paper. Then I hand sanded all the edges with 60, 100, 120, 180, and 400 grit sand paper. Taking the edges to a higher grit has a burnishing effect, such that the stain would darken the edges less. Plywood edges expose alternating layers of end grain and edge grain, which absorb more stain than face grain. I wanted to feature the alternating nature of plywood so I took this step to make sure that the edges would be lighter than the faces.
+<img src="/assets/images/os/19.jpg" class="img-fluid" /></p>
+
+<p>I applied one flood coat of stain, in Varathane’s “gun stock” colour. It’s my first time staining wood, and it went on pretty easily. I’m a fan.
+<img src="/assets/images/os/20.jpg" class="img-fluid" /></p>
+
+<div class="clearfix">
+<p><img src="/assets/images/os/21.jpg" class="img-fluid float-md-left" width="250" style="padding-right:10px" /></p>
+<p>Here's the first face that I tried to stain, it's one of the bottom faces. It's so satisfying when the stain enhances the grain and patterns become appreciable. Finishing in general is a fun process... evertyhing really comes to life.</p>
+<p>I sprayed on a few coats of Deft satin lacquer; the instructions suggest multiple thin coats, but as long as the lacquer doesn't pool and run it's fine. I let the lacquer dry, then used 600 grit sand paper to lightly sand the surface, specifically attacking bumpy spots where dust etc. landed (sometimes you'll find bugs, I guess they're attracted to the fumes). Some people will use a tack cloth to remove wipe off all the dust before applying the next coat, but I like to leave the dust on: the dust will melt on the next coat of lacquer and help fill surface imperfections. It's the secret to getting a glass smooth finish. </p>
+</div>
+<p><img src="/assets/images/os/22.jpg" class="img-fluid" /></p>
+
+<p><img src="/assets/images/os/23.jpg" class="img-fluid" /></p>
+
+<h3 id="final-assembly">Final Assembly</h3>
+
+<div class="clearfix">
+<p><img src="/assets/images/os/24.jpg" class="img-fluid- float-md-left" width="250" style="padding-right:10px; padding-bottom:25px" /></p>
+<p>The port tube came in two pieces; I set the length with hot glue and screwed it into the back. Some of the bass frequencies will resonate in the tube, leading to a fuller sound. I also inserted the binding posts: the inside connects to our crossover terminals, and the outside connects to the input speaker wires.</p>
+<p>I threaded the tweeter wire through and press fitted it into place. Then I connected the terminals, hot glued the PCB to the bottom, and stuffed the cavity like a teddy bear. The polyfill is there to dampen the sound waves generated by the woofer, which would bounce off the back of the cabinet reflect back to the front, thereby muddying the sound output. </p>
+</div>
+
+<div class="container">
+    <div class="row">
+    <div class="col">
+    <img src="/assets/images/os/25.jpg" class="img-fluid" width="250" style="padding-right:10px" />
+    </div>
+    <div class="col">
+    <img src="/assets/images/os/26.jpg" class="img-fluid" width="250" style="padding-right:10px" />
+    </div>
+    <div class="col">
+    <img src="/assets/images/os/27.jpg" class="img-fluid" width="250" style="padding-right:10px" />
+    </div>
+    </div>
+</div>
+:ET
